@@ -1,0 +1,4 @@
+{"assemblyUnit":"GCF_001018695.2","assignedMoleculeLocationType":"Chromosome","chrName":"ANONYMOUS","gcCount":"919795","genbankAccession":"CP026964.1","length":2800003,"refseqAccession":"NZ_CP026964.1","role":"assembled-molecule","sortOrder":1}
+{"assemblyUnit":"GCF_001018695.2","assignedMoleculeLocationType":"Plasmid","chrName":"unnamed1","gcCount":"1544","genbankAccession":"CP026965.1","length":5153,"refseqAccession":"NZ_CP026965.1","role":"assembled-molecule","sortOrder":2}
+{"assemblyUnit":"GCF_001018695.2","assignedMoleculeLocationType":"Plasmid","chrName":"unnamed2","gcCount":"411","genbankAccession":"CP026966.1","length":1518,"refseqAccession":"NZ_CP026966.1","role":"assembled-molecule","sortOrder":3}
+{"assemblyUnit":"GCF_001018695.2","assignedMoleculeLocationType":"Plasmid","chrName":"unnamed3","gcCount":"915","genbankAccession":"CP026967.1","length":3319,"refseqAccession":"NZ_CP026967.1","role":"assembled-molecule","sortOrder":4}

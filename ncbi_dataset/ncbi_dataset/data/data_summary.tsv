@@ -1,0 +1,11 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Staphylococcus aureus		strain: FDAARGOS_5	1280	ASM62661v3	GCF_000626615.2	RefSeq	From INSDC submitter	Complete Genome	2810186	2810186	2018-02-15	2789	PRJNA231221	SAMN02700075
+Staphylococcus aureus		strain: 29b_MRSA	1280	ASM81504v1	GCF_000815045.1	RefSeq	From INSDC submitter	Complete Genome	2872768	2872768	2015-01-06	2875	PRJNA268517	SAMN03251897
+Staphylococcus aureus		strain: 31b_MRSA	1280	ASM81508v1	GCF_000815085.1	RefSeq	From INSDC submitter	Complete Genome	2872779	2872779	2015-01-06	2875	PRJNA268517	SAMN03251898
+Staphylococcus aureus		strain: 33b	1280	ASM81512v1	GCF_000815125.1	RefSeq	From INSDC submitter	Complete Genome	2872764	2872764	2015-01-06	2876	PRJNA268517	SAMN03251894
+Staphylococcus aureus		strain: 26b_MRSA	1280	ASM81516v1	GCF_000815165.1	RefSeq	From INSDC submitter	Complete Genome	2872779	2872779	2015-01-06	2876	PRJNA268517	SAMN03251899
+Staphylococcus aureus		strain: 25b_MRSA	1280	ASM81520v1	GCF_000815205.1	RefSeq	From INSDC submitter	Complete Genome	2872781	2872781	2015-01-06	2876	PRJNA268517	SAMN03251895
+Staphylococcus aureus		strain: 27b_MRSA	1280	ASM81524v1	GCF_000815245.1	RefSeq	From INSDC submitter	Complete Genome	2872771	2872771	2015-01-06	2875	PRJNA268517	SAMN03251896
+Staphylococcus aureus		strain: FCFHV36	1280	ASM96922v1	GCF_000969225.1	RefSeq	From INSDC submitter	Complete Genome	2849811	2849811	2015-04-06	2844	PRJNA279236	SAMN03444404
+Staphylococcus aureus		strain: FDAARGOS_2	1280	ASM101864v2	GCF_001018645.2	RefSeq	From INSDC submitter	Complete Genome	2800003	2809993	2018-02-21	2772	PRJNA231221	SAMN03255442
+Staphylococcus aureus		strain: FDAARGOS_6	1280	ASM101865v2	GCF_001018655.2	RefSeq	From INSDC submitter	Complete Genome	2697644	2759287	2018-02-21	2721	PRJNA231221	SAMN03255445
